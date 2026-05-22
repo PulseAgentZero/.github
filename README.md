@@ -67,4 +67,4 @@ We are a group of engineers dedicated to making behavioral intelligence accessib
 | **Joy Ibe** | **Data Engineer** | [@JoyIbe](https://github.com/JoyIbe) |
 
 ---
-*Created with care by the PulseAgentZero Team for the [Hackathon Name].*
+*Created with care by the PulseAgentZero Team for the DSN x Bluechip.*
